@@ -1,0 +1,7 @@
+streamlit
+scikit-learn
+pandas
+joblib==1.1.0
+numpy
+openpyxl
+matplotlib
