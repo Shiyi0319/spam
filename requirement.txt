@@ -1,7 +1,7 @@
 streamlit
 scikit-learn
 pandas
-joblib
+joblib==1.1.0
 numpy
 openpyxl
 matplotlib
